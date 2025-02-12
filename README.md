@@ -1,7 +1,7 @@
 Currents & Tides: An Exploration of Generative Music in Three Acts
 <br>
 ###### Joel Schäfer, Anna Ferro, Elena Vasilkova, Andreea-Cristina Mircea, Aydin Thill, Lisa Passing, Angela Brennecke
-<br> 
+
 ###### Filmuniversität Babelsberg KONRAD WOLF
 <br>
 <br>
