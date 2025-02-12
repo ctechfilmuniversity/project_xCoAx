@@ -27,11 +27,7 @@ This documentation supports the article by providing audiovisual materials showc
 <br><br>
 
 🎧 **Audio Sample:** [Listen to Tidal Drift](https://on.soundcloud.com/dRkhWnEPMfNeTSSe8) - You can also find the file under the name **KV_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br><br>
-🎥 **Video Sample:** <iframe width="560" height="315" src="https://www.youtube.com/embed/iInFDpuwE7Y" frameborder="0" allowfullscreen></iframe>
-
-  <br><br>
-
-  - You can also find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
+🎥 **Video Sample:** [Watch on YouTube](https://youtu.be/iInFDpuwE7Y) - You can also find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
 <br><br>
 **Act II | Multimodal Recursions**
 <br><be>
