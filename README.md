@@ -27,7 +27,11 @@ This documentation supports the article by providing audiovisual materials showc
 <br><br>
 
 🎧 **Audio Sample:** [Listen to Tidal Drift](https://on.soundcloud.com/dRkhWnEPMfNeTSSe8) - You can also find the file under the name **KV_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br><br>
-🎥 **Video Sample:** [Watch on YouTube](https://youtube.com/your-link)  - You can also find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
+🎥 **Video Sample:** <iframe width="560" height="315" src="https://www.youtube.com/embed/iInFDpuwE7Y" frameborder="0" allowfullscreen></iframe>
+
+  <br><br>
+
+  - You can also find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
 <br><br>
 **Act II | Multimodal Recursions**
 <br><be>
@@ -62,5 +66,5 @@ This documentation supports the article by providing audiovisual materials showc
 #####  **Fig. 9.** *Hybrid Ritual.* Image courtesy of Aydin Thill.  
 <br><br>
 
-🎧 **Audio Sample:** [Listen to Hybrid Ritual](https://on.soundcloud.com/9z8i5gZv8Ei2s4n4A)) - You can also find the file under the name **HR_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
+🎧 **Audio Sample:** [Listen to Hybrid Ritual](https://on.soundcloud.com/9z8i5gZv8Ei2s4n4A) - You can also find the file under the name **HR_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
 🎥 **Video Sample:** [Watch on YouTube](https://youtube.com/your-link)  - You can also find the file under the name **HR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) 
