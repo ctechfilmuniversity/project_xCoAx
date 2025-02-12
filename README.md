@@ -1,7 +1,8 @@
 Currents & Tides: An Exploration of Generative Music in Three Acts
 <br>
 ###### Joel Schäfer, Anna Ferro, Elena Vasilkova, Andreea-Cristina Mircea, Aydin Thill, Lisa Passing, Angela Brennecke
-<br>
+<br> 
+
 ###### Filmuniversität Babelsberg KONRAD WOLF
 <br>
 <br>
@@ -11,7 +12,8 @@ This documentation supports the article by providing audiovisual materials showc
 <br>
 
 **Act I | Tidal Drift**
-<br><br>
+<br><be>
+
 ![Kontrol Voltaj Performing](assets/KV_01.JPG)
  ##### **Fig. 1.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
@@ -28,7 +30,8 @@ This documentation supports the article by providing audiovisual materials showc
 🎥 **Video Sample:** [Watch on YouTube](https://youtube.com/your-link)  - You can also find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
 <br><br>
 **Act II | Multimodal Recursions**
-<br><br>
+<br><be>
+
 ![Multimodal_Recursions Performance](assets/MR_01.JPG)  
  #####  **Fig. 4.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
@@ -59,5 +62,5 @@ This documentation supports the article by providing audiovisual materials showc
 #####  **Fig. 9.** *Hybrid Ritual.* Image courtesy of Aydin Thill.  
 <br><br>
 
-🎧 **Audio Sample:** [Listen to Hybrid Ritual](https://on.soundcloud.com/dRkhWnEPMfNeTSSe8) - You can also find the file under the name **HR_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
+🎧 **Audio Sample:** [Listen to Hybrid Ritual](https://on.soundcloud.com/9z8i5gZv8Ei2s4n4A)) - You can also find the file under the name **HR_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
 🎥 **Video Sample:** [Watch on YouTube](https://youtube.com/your-link)  - You can also find the file under the name **HR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) 
