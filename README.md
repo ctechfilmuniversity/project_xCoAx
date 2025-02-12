@@ -8,14 +8,14 @@ This documentation supports the article by providing audiovisual materials showc
 
 Act I | Tidal Drift
 
-[Kontrol Voltaj Performing](assets/KV_01.JPG)
-¹ **Fig. 1.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
+![Kontrol Voltaj Performing](assets/KV_01.JPG)
+ **Fig. 1.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 
-[Kontrol Voltaj Performing](assets/KV_02.JPG)
-¹ **Fig. 2.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
+![Kontrol Voltaj Performing](assets/KV_02.JPG)
+ **Fig. 2.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 
-[Kontrol Voltaj Performing](assets/KV_03.JPG)
-¹ **Fig. 3.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
+![Kontrol Voltaj Performing](assets/KV_03.JPG)
+ **Fig. 3.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 
 
 
@@ -29,7 +29,7 @@ Act I | Tidal Drift
 Act II | Multimodal Recursions
 
 [Rhythmic Currents Performance](assets/MR_01.JPG)  
-² **Fig. 4.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
+4 **Fig. 4.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 
 [Rhythmic Currents Performance](assets/MR_02.JPG)  
 ² **Fig. 5.** Perspective view of Joel Schäfer and Anna Ferro performing performing with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea. 
