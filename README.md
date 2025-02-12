@@ -2,7 +2,6 @@ Currents & Tides: An Exploration of Generative Music in Three Acts
 <br>
 ###### Joel Schäfer, Anna Ferro, Elena Vasilkova, Andreea-Cristina Mircea, Aydin Thill, Lisa Passing, Angela Brennecke
 <br> 
-
 ###### Filmuniversität Babelsberg KONRAD WOLF
 <br>
 <br>
@@ -44,7 +43,7 @@ This documentation supports the article by providing audiovisual materials showc
  #####  **Fig. 6.** Perspective view of Joel Schäfer and Anna Ferro performing  with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea. 
 <br><be>
 
-🎥 **Video Sample:** [Watch on YouTube](https://youtube.com/your-link)  - You can also find the file under the name **MR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j)
+🎥 **Video Sample:** [Watch on YouTube](https://youtu.be/grRqBNkkCbg)  - You can also find the file under the name **MR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j)
 <br><br>
 
 **Act III | Hybrid Rituals**
