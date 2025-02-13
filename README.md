@@ -49,15 +49,15 @@ This documentation supports the article by providing audiovisual materials showc
 **Act III | Hybrid Rituals**
 <br><br>
 
-![Hybrid Rituals](assets/HR_01.JPG)  
+![Hybrid Rituals](assets/HR_01.png)  
 #####  **Fig. 7.** *Hybrid Ritual.* Image courtesy of Aydin Thill.  
 <br>
 
-![Hybrid Rituals](assets/HR_02.JPG)  
+![Hybrid Rituals](assets/HR_02.png)  
 #####  **Fig. 8.** *Hybrid Ritual.* Image courtesy of Aydin Thill.  
 <br>
 
-![Hybrid Rituals](assets/HR_03.JPG)  
+![Hybrid Rituals](assets/HR_03.png)  
 #####  **Fig. 9.** *Hybrid Ritual.* Image courtesy of Aydin Thill.  
 <br><br>
 
