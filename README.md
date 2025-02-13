@@ -6,7 +6,7 @@ Currents & Tides: An Exploration of Generative Music in Three Acts
 <br>
 <br>
 
-This documentation supports the article by providing audiovisual materials showcasing the performance.  
+This documentation supports the article with audiovisual materials showcasing the performance.  
 <br>
 <br>
 
