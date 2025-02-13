@@ -8,7 +8,7 @@
 <br>
 
 This documentation supports the article with audiovisual materials showcasing the performance.  
-You can find all the files under this [link](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) 
+You can find all the files under this [link](https://owncloud.gwdg.de/index.php/s/noT0kvbeVzPMLRB) 
 <br>
 <br>
 
@@ -27,8 +27,8 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
  #####  **Fig. 3.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br><br>
 
-🎧 **Audio Sample:** You can find the file under the name **KV_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br><br>
-🎥 **Video Sample:** You can find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
+🎧 **Audio Sample:** You can find the file under the name **KV_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/noT0kvbeVzPMLRB) <br><br>
+🎥 **Video Sample:** You can find the file under the name **KV_video.MP4** [here](https://owncloud.gwdg.de/index.php/s/noT0kvbeVzPMLRB) <br>
 <br><br>
 **Act II | Multimodal Recursions**
 <br><be>
@@ -45,7 +45,7 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
  #####  **Fig. 6.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br><be>
 
-🎥 **Video Sample:** You can also find the file under the name **MR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j)
+🎥 **Video Sample:** You can also find the file under the name **MR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/noT0kvbeVzPMLRB)
 <br><br>
 
 **Act III | Hybrid Rituals**
@@ -63,5 +63,5 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
 #####  **Fig. 9.** *Hybrid Ritual.* Image courtesy of Aydin Thill.  
 <br><br>
 
-🎧 **Audio Sample:** You can also find the file under the name **HR_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) <br>
-🎥 **Video Sample:** You can also find the file under the name **HR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) 
+🎧 **Audio Sample:** You can also find the file under the name **HR_audio.wav** [here](https://owncloud.gwdg.de/index.php/s/noT0kvbeVzPMLRB) <br>
+🎥 **Video Sample:** You can also find the file under the name **HR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/noT0kvbeVzPMLRB)
