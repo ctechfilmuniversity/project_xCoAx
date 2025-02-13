@@ -7,7 +7,7 @@ Currents & Tides: An Exploration of Generative Music in Three Acts
 <br>
 
 This documentation supports the article with audiovisual materials showcasing the performance.  
-You can find the entire files under this [link](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) 
+You can find all the files under this [link](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j) 
 <br>
 <br>
 
