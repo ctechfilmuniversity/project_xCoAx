@@ -41,7 +41,7 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
  #####  **Fig. 5.** Perspective view of Joel Schäfer and Anna Ferro performing  with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea. 
 <be>
 
-![Multimodal_Recursions Performance](assets/MR_03.JPG)  
+![Multimodal_Recursions Performance](assets/MR_03.png)  
  #####  **Fig. 6.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br><be>
 
