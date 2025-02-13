@@ -15,7 +15,7 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
 **Act I | Tidal Drift**
 <br><be>
 
-![Kontrol Voltaj Performing](assets/KV_01.JPG)
+![Kontrol Voltaj Performing](assets/KV_01.png)
  ##### **Fig. 1.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
 
@@ -33,11 +33,11 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
 **Act II | Multimodal Recursions**
 <br><be>
 
-![Multimodal_Recursions Performance](assets/MR_01.png)  
+![Multimodal_Recursions Performance](assets/MR_01.JPG)  
  #####  **Fig. 4.** Perspective view of Joel Schäfer and Anna Ferro performing  with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
 
-![Multimodal_Recursions Performance](assets/MR_02.png)  
+![Multimodal_Recursions Performance](assets/MR_02.JPG)  
  #####  **Fig. 5.** Perspective view of Joel Schäfer and Anna Ferro performing  with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea. 
 <be>
 
