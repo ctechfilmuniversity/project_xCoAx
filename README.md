@@ -34,7 +34,7 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
 <br><be>
 
 ![Multimodal_Recursions Performance](assets/MR_01.JPG)  
- #####  **Fig. 4.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
+ #####  **Fig. 4.** Perspective view of Joel Schäfer and Anna Ferro performing  with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
 
 ![Multimodal_Recursions Performance](assets/MR_02.JPG)  
@@ -42,7 +42,7 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
 <be>
 
 ![Multimodal_Recursions Performance](assets/MR_03.JPG)  
- #####  **Fig. 6.** Perspective view of Joel Schäfer and Anna Ferro performing  with collaborator Elisabeth Scholz at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea. 
+ #####  **Fig. 6.** Joel Schäfer (left) and Anna Ferro (right) performing with collaborator Elisabeth Scholz (middle) at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br><be>
 
 🎥 **Video Sample:** You can also find the file under the name **MR_video.mp4** [here](https://owncloud.gwdg.de/index.php/s/zxTfLNErNMPzC0j)
