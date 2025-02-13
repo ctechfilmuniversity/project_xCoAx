@@ -19,11 +19,11 @@ You can find all the files under this [link](https://owncloud.gwdg.de/index.php/
  ##### **Fig. 1.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
 
-![Kontrol Voltaj Performing](assets/KV_02.JPG)
+![Kontrol Voltaj Performing](assets/KV_02.png)
  #####  **Fig. 2.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br>
 
-![Kontrol Voltaj Performing](assets/KV_03.JPG)
+![Kontrol Voltaj Performing](assets/KV_03.png)
  #####  **Fig. 3.** Kontrol Voltaj (Elena Vasilkova) performing at Filmuniversität Babelsberg on the occasion of the 70th anniversary celebrations, Nov 2024, in Potsdam. Image courtesy of Andreea-Cristina Mircea.  
 <br><br>
 
